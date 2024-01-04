@@ -14,20 +14,20 @@ header--main {
 
 header--srecondary {
     font-weight: 300;
-    font--size: 42px}
-    color: #fffff;
+    font-size: 42px;
+    color: #ffffff;
 }
 
 header--sub-header {
     font-size: 21;
-    color: grey:
-    
+    color: grey;
+
 }
 
 /* LINKS */
 
 link--cta {
     font-size: 16px;
-    collor: aquamarine; 
+    color: aquamarine; 
 }
 
